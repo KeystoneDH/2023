@@ -4,6 +4,8 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
+editor:
+      preview: false
 collections:
   - name: 'page'
     label: 'Page'
