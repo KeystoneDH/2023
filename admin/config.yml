@@ -1,0 +1,17 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - name: 'page'
+    label: 'Page'
+    folder: '_pages/'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'ID', name: 'id', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
