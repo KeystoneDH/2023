@@ -1,0 +1,11 @@
+{% assign curr_id = page.id %}
+
+<div class="site-nav">
+    <a {% if curr_id == 'home' %}class="active"{% endif %} href="{{ '/' | prepend: site.github.url }}"><h2>home</h2>
+</a>
+{% for page in site.pages %}
+    {% if page.tags and page.id != 'hidden' and page.id != 'home' and page.id != 'links' %}
+    <a {% if curr_id == page.id %}class="active"{% endif %} href="{{ page.url | prepend: site.github.url }}"><h2>{{ page.title }}</h2></a>
+    {% endif %}
+{% endfor %}
+</div>
