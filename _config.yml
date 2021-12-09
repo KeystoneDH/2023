@@ -1,7 +1,7 @@
 # Site settings
-title:       Keystone DH 2021
+title:       Keystone DH 2022
 email:       contactkeystonedh@gmail.com
-description: "2021 Keystone Digital Humanities Conference will be held at Temple University, July 14-16, 2021."
+description: "2022 Keystone Digital Humanities Conference will be held at Johns Hopkins University, June 15-17, 2022."
 baseurl:     ""
 url:         "https://keystonedh.network"
 date_format: "%b %-d, %Y"     

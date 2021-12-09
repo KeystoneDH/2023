@@ -1,12 +1,12 @@
 ---
 layout: default
 title: guidelines
-id: guidelines
+id: hidden
 tags: page
 permalink: /guidelines
 ---
 
-## Attendee Guidelines
+## Remote Attendee Guidelines
 
 To access the Zoom links for each scheduled event:
 
@@ -20,7 +20,7 @@ Questions? Email contactkeystonedh@gmail.com
 
 ## Presenter Guidelines
 
-For Keystone DH 2021, events will take place in a series of virtual formats.
+For Keystone DH 2022, events will take place in a hybrid format.
 
 Presentations may take the form of short papers, panel discussions or roundtables, workshops, poster sessions, or showcase demonstrations. 
 
