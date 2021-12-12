@@ -6,7 +6,7 @@ tags: page
 permalink: /cfp
 ---
 
-We are excited to announce that 2022’s Keystone DH Conference will be held June 22-24 at Johns Hopkins University’s [Center for Digital Humanities](https://cdh.jhu.edu) in Baltimore, MD. Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic. It is the organizers’ hope that the event will be hybrid, with both online and in-person components.
+We are excited to announce that 2022’s Keystone DH Conference will be held June 15-17 at Johns Hopkins University’s [Center for Digital Humanities](https://cdh.jhu.edu) in Baltimore, MD. Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic. It is the organizers’ hope that the event will be hybrid, with both online and in-person components.
 
 Proposals are welcome on any aspect of digital technologies and their application to the humanities and/or social sciences. We highly encourage projects that focus on the collaborative nature of research and teaching. Senior scholars should foreground the labor of students, librarians, and/or the community that sustained the project. We especially welcome proposals with representative and inclusive speaker involvement, and that highlight methods and insights that generalize beyond the immediate application described.
 
