@@ -26,6 +26,7 @@ Keystone DH is a network of institutions and practitioners committed to advancin
 
 We invite you to explore websites from previous conferences including conference schedules, keynote presentations, and participants.
 
+- [~~2022 @ Johns Hopkins University~~](/2022) (*canceled due to COVID*)
 - [2021 KeystoneDH @ Temple](https://keystonedh.network/2021/)
 - [~~2020 @ Temple~~](/2020) (*canceled due to COVID*)
 - [2019 KeystoneDH X ACH @ Pittsburgh](http://ach2019.ach.org/)
