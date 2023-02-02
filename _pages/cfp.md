@@ -6,6 +6,8 @@ tags: page
 permalink: /cfp
 ---
 
+## Deadline: February 15th, 11:59 PM Eastern Time
+
 We are excited to announce that 2023’s Keystone DH Conference will be held June 16-17th at Johns Hopkins University’s [Center for Digital Humanities](https://cdh.jhu.edu) in Baltimore, MD. Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic. It is the organizers’ hope that the event will primarily be in-person, with additional online accessibility for those who cannot be present.
 
 ## Call for Papers: 
