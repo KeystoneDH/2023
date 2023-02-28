@@ -1,7 +1,7 @@
 # Site settings
 title:       Keystone DH 2023
 email:       contactkeystonedh@gmail.com
-description: "2023 Keystone Digital Humanities Conference will be held at Johns Hopkins University, June 22-24, 2023."
+description: "2023 Keystone Digital Humanities Conference will be held at Johns Hopkins University, June 16-17, 2023."
 baseurl:     ""
 url:         "https://keystonedh.network"
 date_format: "%b %-d, %Y"     
