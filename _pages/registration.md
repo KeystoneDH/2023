@@ -3,7 +3,7 @@ layout: default
 title: registration
 id: registration
 tags: page
-permalink: /registration
+permalink: 
 ---
 Registration is required to attend or present at Keystone DH 2023. Those who register will gain access to all events, keynotes, and workshops. They will also be provided with both breakfast and lunch for both days of the conference. 
 
