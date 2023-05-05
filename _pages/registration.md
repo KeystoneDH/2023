@@ -12,7 +12,7 @@ Registration fees for Keystone DH are tiered based on seniority:
 For tenure-track faculty, registration will be $90. 
 For students/adjunct faculty/independent researchers, registration will be $50. 
 
-To register for the conference, please [click here](https://johnshopkins.smapply.io/prog/keystone_dh/) 
+To register for the conference, please [click here](https://jhu.campusgroups.com/CDH/rsvp_boot?id=1933276) 
 
 For those planning on staying in Baltimore, we have also reserved a block of rooms for Thursday the 15th and Friday the 16th at the Colonnade Baltimore, a hotel at the edge of the Hopkins campus and walking distance to the Gillman Hall, where the conference will be held. 
 
