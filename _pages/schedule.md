@@ -40,13 +40,13 @@ permalink: /schedule
       <li>"Digital Humanities and Forensic Ludology: The Case of the Cheating Chess Champion" - Patrick Juola</li>
     </ul>
     <h3>Session 3: 3:00-4:30</h3>
-    <h4>Panel 5: "Large Language Models: Challenges and Opportunities"</h4>
+     <h4> Works in Progress: GIS, Mapping, Visualization</h4>
     <ul>
-      <li>“As an artificial intelligence and neutral entity, I cannot make a personal decision.” Historical Narratives with ChatGPT?" - Alexandra Krebs</li>
-      <li>"Teach Text Generation but not Threat Academic Integrity" - Shu Wan</li>
-      <li>"Play a Song from the Jukebox: Music Composition and Analysis in the Age of Generative AI" - Nicole Cosme-Clifford</li>
+      <li>"Visual Representations of Environmental Disasters in Early 20th-Century China" — Christopher K. Tong</li>
+      <li>"Civil and Labor Rights in the Southwest: A Digital History of the United Packinghouse Workers of America" - Sam Hege</li>
+      <li>"Data Centers and the new coloniality of the Internet" - Jade Levandofsky</li>
     </ul>
-    <h4>Panel 6: "Comparing, Connecting, Translating"</h4>
+    <h4>Panel 5: "Comparing, Connecting, Translating"</h4>
     <ul>
       <li>"Scales of Reading Partition Violence across Languages and Borders" — Christi Merrill, Ali Bolcakan </li>
       <li>"Too Many J. Smiths: Developing a model for binary publication disambiguation with the Java Graphical Authorship Attribution Program" - James Cooper Roberts</li>
@@ -57,7 +57,7 @@ permalink: /schedule
     <ul>
       <li>Jeremy Moore, Richard N. Leigh</li>
     </ul>
-    <h4>Panel 7: "Exploring Networks"</h4>
+    <h4>Panel 6: "Exploring Networks"</h4>
     <ul>
       <li>"Genre Communities in the Shakespeare and Company Dataset" — Lucian Li </li>
       <li>"Friendly Networks: Using SNAC to Document Social Networks" - James Truitt</li>
@@ -70,13 +70,13 @@ permalink: /schedule
     <h3>9:00-10:30</h3>
     <p>Keynote Address: Andre Brock — "Questions of Scale and Distributed Blackness"</p>
     <h3>Session 1: 10:45-12:15</h3>
-    <h4>Panel 8: "DH, Labor, and the Archives"</h4>
+    <h4>Panel 7: "DH, Labor, and the Archives"</h4>
     <ul>
       <li>"Alternatives to Searching and Browsing a Massive Collection of Documents: The Case of the Opioid Industry Documents Archive" — Kevin Hawkins</li>
       <li>"Scanning Labor in the Internet Archive" - Eleanor Colbert, Lucian Li, David Satten-Lopez, Elizabeth Schwartz</li>
       <li>"Medium as Message: The Innovator in Residence Program at the Library of Congress" - Jaime Mears </li>
     </ul>
-    <h4>Panel 9: "Scholarly Editions and Communities"</h4>
+    <h4>Panel 8: "Scholarly Editions and Communities"</h4>
     <ul>
       <li>"Alaine Locke’s New Negro Anthology in TEI and MEI: A DEFCON Teaching Collaboration across Two Universities" — Elisa Beshero-Bondar and Bartholomew Brinkman</li>
       <li>"If We Know the Algorithm is Successfully Dangerous, Why Can't We Use it for Good? Filtering the good and bad of social media to better the online classroom" - Jennifer Leah Peck</li>
@@ -84,17 +84,17 @@ permalink: /schedule
     </ul>
     <h3>12:15-1:15: Lunch</h3>
     <h3>Session 2: 1:15-2:45</h3>
-    <h4>Panel 10: "Digital Methods and the Archives"</h4>
+    <h4>Panel 9: "Digital Methods and the Archives"</h4>
     <ul>
       <li>"Critical Search at Scale: What Jo Guldi’s Critical Search Strategy Offers Digital Humanities Research" - Avery J. Wiscomb</li>
       <li>"Care and Proximity: An Exploration of Black Digital Intimacies and Intimate Methodology" - Brienne Adams</li>
       <li>"Conceptual history at scale: using digital humanities methods to track the emergence of risk as an object of federal regulation, 1928-present" - Jack Klempay</li>
     </ul>
-    <h4> Works in Progress: GIS, Mapping, Visualization</h4>
+    <h4>Panel 10: "Large Language Models: Challenges and Opportunities"</h4>
     <ul>
-      <li>"Visual Representations of Environmental Disasters in Early 20th-Century China" — Christopher K. Tong</li>
-      <li>"Civil and Labor Rights in the Southwest: A Digital History of the United Packinghouse Workers of America" - Sam Hege</li>
-      <li>"Data Centers and the new coloniality of the Internet" - Jade Levandofsky</li>
+      <li>“As an artificial intelligence and neutral entity, I cannot make a personal decision.” Historical Narratives with ChatGPT?" - Alexandra Krebs</li>
+      <li>"Teach Text Generation but not Threat Academic Integrity" - Shu Wan</li>
+      <li>"Play a Song from the Jukebox: Music Composition and Analysis in the Age of Generative AI" - Nicole Cosme-Clifford</li>
     </ul>
     <h3>Session 3: 3:00-4:30</h3>
     <h4> Works in Progress: The Computational Humanities</h4>
