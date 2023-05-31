@@ -1,7 +1,6 @@
 ---
 layout: default
 title: schedule
-id: hidden
 tags: page
 permalink: /schedule
 ---
