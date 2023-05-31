@@ -84,44 +84,29 @@ permalink: /schedule
     </ul>
     <h3>12:15-1:15: Lunch</h3>
     <h3>Session 2: 1:15-2:45</h3>
-    <h4>Panel 10: "Computation in the Archives"</h4>
+    <h4>Panel 10: "Digital Methods and the Archives"</h4>
     <ul>
-      <li>"Mapping Slave Sites within Fairfax County" - Jayme Kurland</li>
-      <li>"Collaborating with Students to Uncover the Hidden Histories of Northern Virginia" - Wendi Manuel-Scott and George Oberle</li>
-      <li>"Using Omeka S as a Tool for Pedagogy and Digital Scholarship" - Alyssa Fahringer</li>
+      <li>"Critical Search at Scale: What Jo Guldi’s Critical Search Strategy Offers Digital Humanities Research" - Avery J. Wiscomb</li>
+      <li>"Care and Proximity: An Exploration of Black Digital Intimacies and Intimate Methodology" - Brienne Adams</li>
+      <li>"Conceptual history at scale: using digital humanities methods to track the emergence of risk as an object of federal regulation, 1928-present" - Jack Klempay</li>
     </ul>
-    <h4>Panel 4: "Identifying and Comparing Style Across Boundaries"</h4>
+    <h4> Works in Progress: GIS, Mapping, Visualization</h4>
     <ul>
-      <li>"Digital Approaches to Transcultural Screen Narratives" — Edward Larkey</li>
-      <li>"Reverse-engineering and Gradational Assemblage, A Deep-learning Approach to Transnational TV series Adaptations" - Landry  Digeon, Anjal Amin</li>
-      <li>"Digital Humanities and Forensic Ludology: The Case of the Cheating Chess Champion" - Patrick Juola</li>
+      <li>"Visual Representations of Environmental Disasters in Early 20th-Century China" — Christopher K. Tong</li>
+      <li>"Civil and Labor Rights in the Southwest: A Digital History of the United Packinghouse Workers of America" - Sam Hege</li>
+      <li>"Data Centers and the new coloniality of the Internet" - Jade Levandofsky</li>
     </ul>
     <h3>Session 3: 3:00-4:30</h3>
-    <h4>Panel 5: "Large Language Models: Challenges and Opportunities"</h4>
+    <h4> Works in Progress: The Computational Humanities</h4>
     <ul>
-      <li>“As an artificial intelligence and neutral entity, I cannot make a personal decision.” Historical Narratives with ChatGPT?" - Alexandra Krebs</li>
-      <li>"Teach Text Generation but not Threat Academic Integrity" - Shu Wan</li>
-      <li>"Play a Song from the Jukebox: Music Composition and Analysis in the Age of Generative AI" - Nicole Cosme-Clifford</li>
+      <li>“Translation Networks" - Ali Bolcakan</li>
+      <li>"Gender at Scale: analyzing gender representation across scholarly literature using the General Index" - Emily Cukier</li>
+      <li>"Initiative in the face of adversity: a social network analysis of the free Black community in Harrisburg, Pennsylvania, during the first half of the nineteenth century" - Trevor Kase</li>
     </ul>
-    <h4>Panel 6: "Comparing, Connecting, Translating"</h4>
+    <h4>Works in Progress: Pedagogy and Platforms </h4>
     <ul>
-      <li>"Scales of Reading Partition Violence across Languages and Borders" — Christi Merrill, Ali Bolcakan </li>
-      <li>"Too Many J. Smiths: Developing a model for binary publication disambiguation with the Java Graphical Authorship Attribution Program" - James Cooper Roberts</li>
-      <li>"Map Lemon: A Citrusy Approach to Demographic Identification & Tracking Individual Token Use Using a Map-Based Corpus" - Theodore Daniel Manning</li>
+      <li>"Python Graphical Authorship Attribution Program (PyGAAP)" —  Michael Fang, Alex Napolitano Jawerbaum, David Berdik, Patrick Juola </li>
+      <li>"Tracing the Experience of Instructors as Developers" - Jason Stuart</li>
+      <li>"Overhauling the Interface of the Frankenstein Variorum" - Elisa Beshero-Bondar, Yuying Jin, Raffaele Viglianti </li>
     </ul>
-     <h3>Session 5: 4:45-5:45</h3>
-    <h4> Workshop: "Workshop: Snakes and Pandas: A Short Introduction to Thinking Big with the Opioid Industry Documents Archive (OIDA) and Johns Hopkins University’s SciServer.org"</h4>
-    <ul>
-      <li>Jeremy Moore, Richard N. Leigh</li>
-    </ul>
-    <h4>Panel 7: "Exploring Networks"</h4>
-    <ul>
-      <li>"Genre Communities in the Shakespeare and Company Dataset" — Lucian Li </li>
-      <li>"Friendly Networks: Using SNAC to Document Social Networks" - James Truitt</li>
-    </ul>
-    
-  <h2>Saturday, June 17</h2>
-  <div id="day-2" class="day clearfix hide"></div>
-</div>
-
 
