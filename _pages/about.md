@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about
-id: hidden
+id: about
 tags: page
 permalink: /about
 ---
