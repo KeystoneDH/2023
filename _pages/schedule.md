@@ -62,7 +62,6 @@ permalink: /schedule
       <li>"Friendly Networks: Using SNAC to Document Social Networks" — James Truitt</li>
     </ul>
     
-  </div>
    <h2>Saturday, June 17th</h2>
   <div>
     <h3>8:30-9:00: Breakfast</h3>
@@ -78,7 +77,6 @@ permalink: /schedule
     <h4>Panel 8: "Scholarly Editions and Communities"</h4>
     <ul>
       <li>"Alaine Locke’s New Negro Anthology in TEI and MEI: A DEFCON Teaching Collaboration across Two Universities" — Elisa Beshero-Bondar and Bartholomew Brinkman</li>
-      <li>"If We Know the Algorithm is Successfully Dangerous, Why Can't We Use it for Good? Filtering the good and bad of social media to better the online classroom" — Jennifer Leah Peck</li>
       <li>"Against Digital Scholarly Editions in the Business of Surveillance Publishing " — Samuel DiBella</li>
        <li>"Building an XR Community at Scale" — Amanda Licastro</li>
     </ul>
