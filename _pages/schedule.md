@@ -66,7 +66,7 @@ permalink: /schedule
     
   </div>
    <h2>Saturday, June 17th</h2>
-  <div id="day-1" class="day clearfix hide">
+  <div id="day-2" class="day clearfix hide">
     <h3>8:30-9:00: Breakfast</h3>
     <h3>9:00-10:30</h3>
     <p>Keynote Address: Andre Brock — "Questions of Scale and Distributed Blackness"</p>
