@@ -6,10 +6,8 @@ tags: page
 permalink: /schedule
 ---
 
-
-<div id="schedule-view">
   <h2>Friday, June 16th</h2>
-  <div id="day-1" class="day clearfix hide">
+  <div>
     <h3>8:30-9:00: Breakfast</h3>
     <h3>9:00-10:30</h3>
     <p>Keynote Address: Ted Underwood — "DH in the Age of Generative AI: Four Paths Forward"</p>
@@ -66,7 +64,7 @@ permalink: /schedule
     
   </div>
    <h2>Saturday, June 17th</h2>
-  <div id="day-2" class="day clearfix hide">
+  <div>
     <h3>8:30-9:00: Breakfast</h3>
     <h3>9:00-10:30</h3>
     <p>Keynote Address: Andre Brock — "Questions of Scale and Distributed Blackness"</p>
