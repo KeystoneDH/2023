@@ -10,7 +10,7 @@ permalink: /schedule
   <div>
     <h3>8:30-9:00: Breakfast</h3>
     <h3>9:00-10:30</h3>
-    <p>Keynote Address: Ted Underwood — "DH in the Age of Generative AI: Four Paths Forward"</p>
+    <h4>Keynote Address: Ted Underwood — "DH in the Age of Generative AI: Four Paths Forward"<h4>
     <h3>Session 1: 10:45-12:15</h3>
     <h4>Panel 1: "Reading Big Data"</h4>
     <ul>
