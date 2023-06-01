@@ -80,6 +80,7 @@ permalink: /schedule
       <li>"Alaine Locke’s New Negro Anthology in TEI and MEI: A DEFCON Teaching Collaboration across Two Universities" — Elisa Beshero-Bondar and Bartholomew Brinkman</li>
       <li>"If We Know the Algorithm is Successfully Dangerous, Why Can't We Use it for Good? Filtering the good and bad of social media to better the online classroom" — Jennifer Leah Peck</li>
       <li>"Against Digital Scholarly Editions in the Business of Surveillance Publishing " — Samuel DiBella</li>
+       <li>"Building an XR Community at Scale" — Amanda Licastro</li>
     </ul>
     <h3>12:15-1:15: Lunch</h3>
     <h3>Session 2: 1:15-2:45</h3>
