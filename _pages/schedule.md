@@ -1,9 +1,11 @@
 ---
 layout: default
 title: schedule
+id: schedule
 tags: page
 permalink: /schedule
 ---
+
 
 <div id="schedule-view">
   <h2>Friday, June 16th</h2>
