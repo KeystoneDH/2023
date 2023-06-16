@@ -43,7 +43,7 @@ permalink: /schedule
     <li>Chair: Tom Lippincott</li>
   </ul>
   <h3>Session 3: 3:00-4:30</h3>
-  <h4> Works in Progress: GIS, Mapping, Visualization</h4>
+  <h4> Gilman 308 -- Works in Progress: GIS, Mapping, Visualization</h4>
   <ul>
     <li>"'My Hudson History': An Educational History App" — Sophia Aquisto </li>
     <li>"Civil and Labor Rights in the Southwest: A Digital History of the United Packinghouse Workers of America" — Sam Hege</li>
@@ -112,7 +112,7 @@ permalink: /schedule
     <li>"Initiative in the face of adversity: a social network analysis of the free Black community in Harrisburg, Pennsylvania, during the first half of the nineteenth century" — Trevor Kase</li>
     <li>Chair: Craig Messner</li>
   </ul>
-  <h4>Works in Progress: Pedagogy and Platforms </h4>
+  <h4> Gilman 208 -- Works in Progress: Pedagogy and Platforms </h4>
   <ul>
     <li>"Python Graphical Authorship Attribution Program (PyGAAP)" —  Michael Fang, Alex Napolitano Jawerbaum, Patrick Juola </li>
     <li>"Tracing the Experience of Instructors as Developers" — Jason Stuart</li>
